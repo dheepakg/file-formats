@@ -1,0 +1,22 @@
+{
+  "type": "record",
+  "name": "ratings",
+  "fields": [
+    {
+      "name": "userId",
+      "type": "string"
+    },
+    {
+      "name": "movieId",
+      "type": "string"
+    },
+    {
+      "name": "rating",
+      "type": "string"
+    },
+    {
+      "name": "ts",
+      "type": "string"
+    }
+  ]
+}
